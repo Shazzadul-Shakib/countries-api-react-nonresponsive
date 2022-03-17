@@ -1,0 +1,9 @@
+.countries-header-text{
+  color: #E2D784;
+  padding: 40px 0 40px 0;
+}
+.countries-container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 10px;
+}
